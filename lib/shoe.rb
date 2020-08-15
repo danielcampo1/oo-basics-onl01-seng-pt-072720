@@ -15,5 +15,3 @@ class Shoe
 end
   
 end
-
-shoe.conition = new
