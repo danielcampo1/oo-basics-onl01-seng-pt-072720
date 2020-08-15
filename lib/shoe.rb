@@ -16,5 +16,3 @@ end
 
 end
 
-shoe.cobble = "new"
-shoe.cobble
