@@ -16,4 +16,4 @@ end
   
 end
 
-Shoe.conition = new
+shoe.conition = new
