@@ -16,4 +16,4 @@ end
 
   
 end
-@shoe.cobble.condition = "new"
+
